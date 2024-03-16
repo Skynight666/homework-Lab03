@@ -10,6 +10,5 @@ public class JPA301 {
             sum += i;
         }
         System.out.println("1 + ... + " + n + " = " + sum);
-        scanner.close();
     }
 }
